@@ -6,14 +6,14 @@ Tai-Xiang Jiang, Ting-Zhu Huang, Xi-Le Zhao, Liang-Jian Deng;
 The preprint is available at https://arxiv.org/abs/1712.05870 \
 if you use this code, please cite
 
-         @article{jiang2019multi,
-                  title = {Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm},
-                  author = {Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian},
-                  journal = {Journal of Computational and Applied Mathematics},
-                  year = {2019},
-                  publisher = {Elsevier},
-                  doi = {10.1016/j.cam.2019.112680}
-                  }
+         @article{jiang2020multi,
+           title={Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm},
+           author={Jiang, Tai-Xiang and Huang, Ting-Zhu and Zhao, Xi-Le and Deng, Liang-Jian},
+           journal={Journal of Computational and Applied Mathematics},
+           volume={372},
+           pages={112680},
+           year={2020},
+           publisher={Elsevier}
 
             
 .p files will be replaced by .m soon.
